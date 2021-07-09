@@ -1,0 +1,25 @@
+body{
+	background-color: #5A9D69;
+}
+
+#menu{
+	width: 5%;
+	padding: 0%;
+	position: relative;
+	transform: translate(1800%,0%);
+}
+
+#signin{
+	width: 5%;
+	padding: 0%;
+	position: relative;
+	transform: translate(1800%, 0%);
+}
+
+#backbutton{
+	width: 10%;
+}
+
+p{
+	font-family: 'New Rocker', cursive;
+}
